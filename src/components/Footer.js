@@ -57,7 +57,7 @@ function Footer() {
         </a>
 
         <a
-          href="mailto:hello@covid19india.org"
+          href="mailto:hello@covid19india.datlantics.com"
           className="mail"
           target="_blank"
           rel="noopener noreferrer"

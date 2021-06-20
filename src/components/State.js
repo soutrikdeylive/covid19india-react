@@ -122,7 +122,7 @@ function State() {
     <>
       <Helmet>
         <title>
-          Coronavirus Outbreak in {STATE_NAMES[stateCode]} - covid19india.org
+          Coronavirus Outbreak in {STATE_NAMES[stateCode]} - covid19india.datlantics.com
         </title>
         <meta
           name="title"

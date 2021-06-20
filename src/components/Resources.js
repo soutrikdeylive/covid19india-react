@@ -26,7 +26,7 @@ const Resources = () => {
         beneficiaries to use their discretion and verify the leads on their own
         before taking any action. If you find inaccurate information or any lead
         engaging in illegal practices, kindly inform us at
-        hello@covid19india.org. We will take it down as soon as possible. We
+        hello@covid19india.datlantics.com. We will take it down as soon as possible. We
         will not be responsible for the actions you take using the information
         on this page. We are just mediating information and are no way
         responsible for what is being shared. Please avoid sharing and
