@@ -9,7 +9,7 @@ function Footer() {
     <footer>
       <div className="link">
         <a
-          href="https://github.com/covid19india"
+          href="#"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -21,7 +21,7 @@ function Footer() {
 
       <div className="links">
         <a
-          href="https://github.com/covid19india/covid19india-react"
+          href="#"
           className="github"
           target="_blank"
           rel="noopener noreferrer"
@@ -39,7 +39,7 @@ function Footer() {
         </a>
 
         <a
-          href="https://t.me/covid19indiaorg"
+          href="#"
           className="telegram"
           target="_blank"
           rel="noopener noreferrer"
@@ -48,7 +48,7 @@ function Footer() {
         </a>
 
         <a
-          href="https://twitter.com/covid19indiaorg"
+          href="#"
           target="_blank"
           rel="noopener noreferrer"
           className="twitter"
